@@ -50,7 +50,7 @@ Solusi lengkap untuk **otomatisasi pemantauan dan penyiraman tanaman/taman** men
 ## 🏗️ Struktur Proyek (API Backend - Go)
 
 ```
-.
+
 ├── config/
 │   └── database.go
 ├── controllers/
