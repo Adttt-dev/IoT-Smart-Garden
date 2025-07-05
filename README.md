@@ -78,8 +78,9 @@ Solusi lengkap untuk **otomatisasi pemantauan dan penyiraman tanaman/taman** men
 ### 1️⃣ Kloning Repo
 
 ```bash
-git clone https://github.com/your-username/smart-garden-iot.git
+mkdir smart-garden-iot
 cd smart-garden-iot
+git clone https://github.com/Adttt-dev/IoT-Smart-Garden.git
 ```
 
 ### 2️⃣ Jalankan Backend (Go)
